@@ -1,4 +1,4 @@
-
+#Bi
 def validacion_contraseña ():
     
     contraseña_sistema  = "admin123"
